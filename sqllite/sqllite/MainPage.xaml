@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sqllite.MainPage">
+
+    <StackLayout Padding="15">
+        <Entry Placeholder="Nombre Completo" x:Name="NombreEntry" />
+        <Entry Placeholder="Correo Electrónico" x:Name="CorreoEntry" />
+        <Entry Placeholder="Contraseña" x:Name="ContraseñaEntry" IsPassword="True" />
+        <Button Text="Registrar" Clicked="Registrar_Clicked" />
+    </StackLayout>
+
+</ContentPage>

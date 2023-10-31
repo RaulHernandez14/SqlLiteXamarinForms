@@ -1,0 +1,17 @@
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\bin\Debug\netstandard2.0\sqllite.deps.json
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\bin\Debug\netstandard2.0\sqllite.dll
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\bin\Debug\netstandard2.0\ref\sqllite.dll
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\bin\Debug\netstandard2.0\sqllite.pdb
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.csproj.AssemblyReference.cache
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\PaginaPrincipal.xaml.g.cs
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.AssemblyInfoInputs.cache
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.AssemblyInfo.cs
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.csproj.CoreCompileInputs.cache
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.dll
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\refint\sqllite.dll
+C:\Users\Alumno-01\source\repos\sqllite\sqllite\sqllite\obj\Debug\netstandard2.0\sqllite.pdb
